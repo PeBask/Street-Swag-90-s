@@ -2,6 +2,10 @@ body {
     background: #C0C0C0
 }
 
+h1 {
+    text-align:center
+}
+
 p {
     text-align: center;
 }
